@@ -1,2 +1,2 @@
 # homebridge-messana-fancoil
-Homebridge's plugin for messana fancoil element
+Plugin to install the following accessories: FancoilH, FancoilC
